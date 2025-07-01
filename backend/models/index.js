@@ -1,0 +1,17 @@
+module.exports = {
+  User: require("./User"),
+  Fuel: require("./Fuel"),
+  FuelEntry: require("./FuelEntry"),
+  FuelSale: require("./FuelSale"),
+  CarWashService: require("./CarWashService"),
+  CarWashTicket: require("./CarWashTicket"),
+  MenuItem: require("./MenuItem"),
+  Order: require("./Order"),
+  OrderItem: require("./OrderItem"),
+  Accessory: require("./Accessory"),
+  AccessorySale: require("./AccessorySale"),
+  Tire: require("./Tire"),
+  TireSale: require("./TireSale"),
+  ButcheryProduct: require("./ButcheryProduct"),
+  ButcherySale: require("./ButcherySale"),
+};
